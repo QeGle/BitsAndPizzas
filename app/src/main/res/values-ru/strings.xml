@@ -1,0 +1,67 @@
+<resources>
+    <string name="action_settings">Настройки</string>
+    <string name="create_order">Сделать заказ</string>
+    <string name="action_share">Поделиться</string>
+
+    <string name="open_drawer">Открыть</string>
+    <string name="close_drawer">Закрыть</string>
+
+    <string-array name="titles">
+        <item>Домой</item>
+        <item>Пицца</item>
+        <item>Паста</item>
+        <item>Рестораны</item>
+    </string-array>
+
+    <string-array name="pizzas">
+        <item>Пицца «Дьябола»       </item>
+        <item>Пицца «Маргарита»     </item>
+        <item>Пицца «Гавайская»     </item>
+        <item>Пицца «Пепперони»     </item>
+        <item>Пицца «Сицилийская»   </item>
+        <item>Пицца «Маринара»      </item>
+        <item>Пицца «Каприциоза»    </item>
+        <item>Пицца «Четыре сезона» </item>
+        <item>Пицца «Четыре сыра»   </item>
+        <item>Пицца «Примавера»     </item>
+        <item>Пицца «Карбонара»     </item>
+        <item>Пицца «Баварская»     </item>
+    </string-array>
+
+    <string-array name="pasta">
+        <item>Маникотти</item>
+        <item>Букатини</item>
+        <item>Тальятелле</item>
+        <item>Равиоли</item>
+        <item>Джемелли</item>
+        <item>Фарфалле</item>
+        <item>Феттуччини</item>
+        <item>Фьори</item>
+        <item>Каннеллони</item>
+        <item>Диталини</item>
+        <item>Ротини</item>
+        <item>Лингуине</item>
+        <item>Конкилье</item>
+        <item>Радиатори</item>
+        <item>Пичи</item>
+        <item>Гарганелли</item>
+        <item>Вермишель</item>
+        <item>Каватаппи</item>
+        <item>Тортеллини</item>
+        <item>Паппарделле</item>
+        <item>Фузилли Букати</item>
+        <item>Лазаньетте</item>
+        <item>Стриньоцци</item>
+        <item>Ризони</item>
+        <item>Паккери</item>
+    </string-array>
+
+    <string-array name="stores">
+        <item>Cambridge</item>
+        <item>Sebastopol</item>
+    </string-array>
+
+    <string name="hello">Добро пожаловать!</string>
+    <string name="error_404">404</string>
+    <string name="pizzas_image">Изображение пиццы</string>
+</resources>

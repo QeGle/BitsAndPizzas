@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name" translatable="false">Bits and Pizzas</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_order">Create order</string>
+    <string name="action_share">Share</string>
+    <string name="pizzas_image">Pizzas image</string>
+
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+
+    <string-array name="titles">
+        <item>Home</item>
+        <item>Pizzas</item>
+        <item>Pasta</item>
+        <item>Restaurants</item>
+    </string-array>
+
+    <string-array name="pizzas">
+        <item>Pizza «Дьябола»</item>
+        <item>Pizza «Маргарита»</item>
+        <item>Pizza «Гавайская»</item>
+        <item>Pizza «Пепперони»</item>
+        <item>Pizza «Сицилийская»</item>
+        <item>Pizza «Маринара»</item>
+        <item>Pizza «Каприциоза»</item>
+        <item>Pizza «Четыре сезона»</item>
+        <item>Pizza «Четыре сыра»</item>
+        <item>Pizza «Примавера»</item>
+        <item>Pizza «Карбонара»</item>
+        <item>Pizza «Баварская»</item>
+    </string-array>
+
+    <string-array name="pasta">
+        <item>Маникотти</item>
+        <item>Букатини</item>
+        <item>Тальятелле</item>
+        <item>Равиоли</item>
+        <item>Джемелли</item>
+        <item>Фарфалле</item>
+        <item>Феттуччини</item>
+        <item>Фьори</item>
+        <item>Каннеллони</item>
+        <item>Диталини</item>
+        <item>Ротини</item>
+        <item>Лингуине</item>
+        <item>Конкилье</item>
+        <item>Радиатори</item>
+        <item>Пичи</item>
+        <item>Гарганелли</item>
+        <item>Вермишель</item>
+        <item>Каватаппи</item>
+        <item>Тортеллини</item>
+        <item>Паппарделле</item>
+        <item>Фузилли Букати</item>
+        <item>Лазаньетте</item>
+        <item>Стриньоцци</item>
+        <item>Ризони</item>
+        <item>Паккери</item>
+    </string-array>
+
+    <string-array name="restaurants">
+        <item>Cambridge</item>
+        <item>Sebastopol</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="hello">Top fragment</string>
+    <string name="error_404">404</string>
+</resources>
